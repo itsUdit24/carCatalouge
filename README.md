@@ -48,7 +48,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 - Next.js
 - TypeScript
-- Tailwind CSS.
+- Tailwind CSS
 
 ## <a name="features">🔋 Features</a>
 
